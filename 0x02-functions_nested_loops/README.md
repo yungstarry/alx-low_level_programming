@@ -13,3 +13,5 @@ You can only use _putchar twice in your code
 4... Write a function that checks for lowercase character.
 
 5,,,, Write a function that checks for alphabetic character.
+
+6.....Write a function that prints the sign of a number.
