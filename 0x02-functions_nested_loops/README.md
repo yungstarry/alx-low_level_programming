@@ -20,4 +20,6 @@ You can only use _putchar twice in your code
 
 8...... Write a function that prints the last digit of a number.
 
-9......Write a function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
+9......Write a function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59i.
+
+10..... Write a function that prints the 9 times table, starting with 0.
